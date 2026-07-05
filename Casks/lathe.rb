@@ -8,7 +8,7 @@ cask "lathe" do
   homepage "https://github.com/hongmono/Lathe"
 
   auto_updates true
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Lathe.app"
 end
