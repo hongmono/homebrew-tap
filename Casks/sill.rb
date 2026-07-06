@@ -1,6 +1,6 @@
 cask "sill" do
-  version "1.3.0"
-  sha256 "bdd5eeb9a3daa72ce039606c95ec1c04c4f4b9fe724aae34b40d66ec9ee27c90"
+  version "1.4.0"
+  sha256 "49f563ec1374f05ec6f769a8524b37f04348c1fd40aecdc9f54126c9aa9fea8a"
 
   url "https://github.com/hongmono/Sill/releases/download/v#{version}/Sill-v#{version}.dmg"
   name "Sill"
