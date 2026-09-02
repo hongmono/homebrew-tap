@@ -1,6 +1,6 @@
 cask "lathe" do
-  version "1.8.0"
-  sha256 "85e0e9b8341721804429da5c66e16ac32430480108bf2d58252499c44ce3e528"
+  version "1.8.1"
+  sha256 "73dc0fc1437720bb4f239e65bf0a47576a7e915f8247356fd00a49e454d8a53d"
 
   url "https://github.com/hongmono/Lathe/releases/download/v#{version}/Lathe-v#{version}.dmg"
   name "Lathe"
